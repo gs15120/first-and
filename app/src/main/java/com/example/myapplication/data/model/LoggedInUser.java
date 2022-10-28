@@ -1,5 +1,5 @@
 package com.example.myapplication.data.model;
-
+//version 222222
 /**
  * Data class that captures user information for logged in users retrieved from LoginRepository
  */
